@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    margin: 3% auto;
+    position: relative;
+}
+
+input {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    display: block;
+}
+
+.btn {
+    display: block;
+    margin: auto;
+}
+
+a,
+.a2 {
+    display: inline-block;
+    margin: 0.5rem;
+}
+
+.a2 {
+    padding-left: 2rem;
+}
+
+#slika {
+    display: inline-block;
+}
+
+.btn2 {
+    display: inline-block;
+    margin-left: -5rem;
+}
+
+.mb-3 {
+    padding: 1.2rem;
+}
+
+.inputs {
+    margin: auto;
+}
+
+h1,
+h5,
+h3 {
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+h5 {
+    top: 0;
+    position: absolute;
+    width: 45%;
+    left: 30%;
+    text-align: center;
+}
+
+.sadrzaj {
+    word-wrap: break-word;
+    white-space: initial;
+}
+
+.btn3 {
+    position: absolute;
+    top: -8rem;
+    right: 0;
+}
